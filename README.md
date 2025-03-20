@@ -4,7 +4,6 @@ Atualmente estou cursando analise e desenvolvimento de sistemas no CEUB (Asa nor
 - **Principais Habilidades:**  
   - **Pensamento Analítico e Solução de Problemas:**  
     - Análise de requisitos e resolução de problemas de negócio.  
-    - Conhecimento em Metodologias Ágeis
   - **Visualização de dados:**  
     - Desenvolvimento de dashboards interativos e dinâmicos no Power BI e criação de layouts personalizados no Figma.
   - **Engenharia e Analise de Dados:**  

@@ -11,20 +11,13 @@ Atualmente estou cursando analise e desenvolvimento de sistemas no CEUB (Asa nor
     - Criação da infraestrutura de dados utilizando linguagem SQL.    
 ---
 
-**📊 Estatísticas do GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoml93&show_icons=true&theme=radical)  
-
----
 
 **🛠️ Linguagens e Ferramentas**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)  
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black)  
-
 ---
 
-**📫 Como me encontrar**  
-- [LinkedIn](https://www.linkedin.com/in/eduardo-more)  
-- Email: eduardo.moreni@example.com  
+**📫 Contato**  
+- [LinkedIn](https://www.linkedin.com/in/davi-andrade-xavier-29aa04318/)  
+- Email: davi.xavier1000@gmail.com

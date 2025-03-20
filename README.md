@@ -7,8 +7,8 @@ Atualmente estou cursando analise e desenvolvimento de sistemas no CEUB (Asa nor
     - Conhecimento em Metodologias Ágeis
   - **Visualização de dados:**  
     - Desenvolvimento de dashboards interativos e dinâmicos no Power BI e criação de layouts personalizados no Figma.
-  - **Engenharia de Dados:**  
-    - Criação da infraestrutura de dados utilizando linguagem SQL.    
+  - **Engenharia e Analise de Dados:**  
+    - Criação da infraestrutura de dados e consultas utilizando linguagem SQL.    
 ---
 
 
